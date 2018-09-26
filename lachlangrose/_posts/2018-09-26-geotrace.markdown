@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Semi-Automated feature tracing in QGIS"
+date:   2018-09-26 12:22:19 +1000
+categories: GIS QGIS Geotrace
+---
+This is Geotrace
