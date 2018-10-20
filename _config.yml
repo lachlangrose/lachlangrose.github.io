@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Lachlan Grose
-email: lachlan.grose@monash.edu
+email: lachlan.grose[at]monash[dot]edu
 description: >- # this means to ignore newlines until "baseurl:"
   Lachlan Grose - 3D geomodeling and structural geology researcher.
 baseurl: "" # the subpath of your site, e.g. /blog
