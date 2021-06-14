@@ -5,9 +5,6 @@
 layout: home
 classes: wide
 author: Lachlan Grose
-layout: single
+# layout: single
 author_profile: true
 ---
-I am a research fellow at Monash University.
-
-LoopStructural

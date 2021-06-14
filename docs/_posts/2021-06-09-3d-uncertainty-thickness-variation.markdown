@@ -5,13 +5,15 @@ date:   2021-06-13 20:39:54 +1000
 categories: jekyll update
 classes: wide
 author: Lachlan Grose
+author_profile: true
+excerpt_separator: <!--more--> 
 ---
 Uncertainty in 3D geological models is challenging to simulate because the models used to represent geology are generally parameterised by the observations that are used to assess the quality of the mdoel. Geological uncertainty can be split into three components:
 * data uncertainty - errors assocaited with the collection or measurement of observations
 * inherent randomness - how the model is interpolated between observations 
 * incompete knowledge - missing structures
 These uncertainties are all interrelated and it is impossible to quantiy the contribution of each of these types of uncertainty. Here I will investigate how uncertainty in the estimated stratigraphic thicknesses can be used to simuate geometrical uncertainties in the resulting 3D models.
-
+<!--more-->
 This post was created using:
 * [LoopStructural 1.1](https://github.com/Loop3D/LoopStructural) 
 * [map2loop](https://github.com/Loop3D/map2loop-2)
