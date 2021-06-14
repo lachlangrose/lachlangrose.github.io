@@ -1,0 +1,15 @@
+Lachlan Grose:
+  name        : "Lachlan Grose"
+  bio         : "Structural geologist, 3D geological modeller, data scientist"
+  avatar      : "/assets/images/lachlanbio.jpg"
+
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:lachlan.grose@monash.edu"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://lachlangrose.github.io"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lachlanjgrose"
