@@ -2,7 +2,7 @@
 layout: posts
 title:  "Stratigraphic thickness and geometrical uncertainty using LoopStructural"
 date:   2021-06-13 20:39:54 +1000
-categories: jekyll update
+categories: research
 classes: wide
 author: Lachlan Grose
 author_profile: true
