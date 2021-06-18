@@ -31,8 +31,10 @@ github_username:  lachlangrose
 
 # Build settings
 theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 plugins:
   - jekyll-feed
+  - jerkyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
