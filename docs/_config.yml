@@ -35,7 +35,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 plugins:
   - jekyll-feed
   - jerkyll-include-cache
-
+repository: lachlangrose/lachlangrose.github.io
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
