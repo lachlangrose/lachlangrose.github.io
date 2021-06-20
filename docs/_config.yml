@@ -34,7 +34,7 @@ github_username:  lachlangrose
 remote_theme: "mmistakes/minimal-mistakes@4.23.0"
 plugins:
   - jekyll-feed
-  - jerkyll-include-cache
+  - jekyll-include-cache
 repository: lachlangrose/lachlangrose.github.io
 # Exclude from processing.
 # The following items will not be processed, by default.
