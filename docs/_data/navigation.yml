@@ -1,11 +1,11 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /
+  - title: "Blog"
+    url: /blog
   - title: "Publications"
-    url: /publications/
+    url: /publications
   - title: "Software"
-    url: /software/
+    url: /software
   - title: "CV"
-    url: /cv/
-  - title: "Loop"
-    url: https://loop3d.org
+    url: /cv

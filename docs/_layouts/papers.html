@@ -1,0 +1,71 @@
+---
+layout: archive
+---
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Papers" }}</h3>
+<style>
+.collapsible {
+    /* background-color: white; */
+    color: black;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+.authors {
+    color: black;
+    font-weight: bold;
+    font-size: 15px;
+    /* background-color: white; */
+}
+.active, .collapsible:hover {
+    /* background-color: #555; */
+}
+
+.content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: #f1f1f1;
+}
+</style>
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for paper in site.papers %}
+    <button type="button" class="collapsible">{{paper.year}} {{ paper.title }} <br> <p class=authors>{{ paper.authors }}</p></button>
+    <div class="content">
+        <p class=authors>Journal: {{ paper.journal }}</p>
+        <p class=authors>DOI: {{ paper.doi }}</p>
+        <p class=authors>{{ paper.content }}</p>
+    </div>
+ {% endfor %}
+</div>
+
+{% include paginator.html %}
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+        content.style.display = "none";
+    } else {
+        content.style.display = "block";
+    }
+    });
+}
+</script>
