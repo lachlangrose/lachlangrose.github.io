@@ -1,0 +1,10 @@
+---
+title: Inversion of Structural Geology Data for Fold Geometry 
+authors: Lachlan Grose, Laurent Ailleres, Gautier Laurent, Robin Armit, Mark Jessell and Thomas Cousin-Dechenaud
+year: 2018
+journal: Journal of Geophysical Research Solid Earth
+doi: <a href="https://doi.org/10.5194/gmd-2021-112">10.5194/gmd-2021-112</a>
+citation: Grose et al 2018
+---
+
+Recent developments in structural modeling techniques have dramatically increased the capability to incorporate fold-related data into the modeling workflow. However, these techniques are lacking a mathematical framework for properly addressing structural uncertainties. Previous studies investigating structural uncertainties have focused on the sensitivity of the interpolator to perturbing the input data. These approaches do not incorporate conceptual uncertainty about the geological structures and interpolation process to the overall uncertainty estimate. In this work, we frame structural modeling as an inverse problem and use a Bayesian framework to reconcile structural parameters and data uncertainties. Bayesian inference is applied for determining the posterior probability distribution of fold parameters given a set of structural observations and prior distributions based on general geological knowledge and regional observations. This approach allows for an inversion of structural geology data, where each realization can differ in the structural description of the fold geometries, instead of finding only a single best fit solution. We show that analyzing the variability between the resulting models highlights uncertainties associated with the geometry of regional structures. These areas can be used to target where additional data would be most beneficial for improving the model quality and efficiently reducing structural uncertainty.

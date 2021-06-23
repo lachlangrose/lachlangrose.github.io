@@ -1,0 +1,9 @@
+---
+title: Inversion of geological knowledge for fold geometry
+authors: Lachlan Grose, Laurent Ailleres, Gautier Laurent, Robin Armit, Mark Jessell
+year: 2019
+journal: Journal of Structural Geology
+doi: <a href="https://doi.org/10.1016/j.jsg.2018.11.010">10.1016/j.jsg.2018.11.010</a>
+citation: Grose et al 2019
+---
+The process of building three-dimensional (3D) geological models can be framed as an inverse problem where a model describing the 3D distribution of rock units is non-uniquely derived from geological observations. The inverse problem theory provides a powerful framework for inferring these parameters from all geological observations, in a similar way to how a geologist can iteratively update their structural interpretation while mapping. Existing geological knowledge is usually indirectly incorporated into 3D models using the geologist's non-unique interpretation as form lines, cross sections and level maps. These approaches treat constraints derived from geological knowledge in the same way as direct observations, diluting and confusing both information provided by geological knowledge and hard data resulting in significant subjectivity. We present a geological inversion using Bayesian inference where geological knowledge can be incorporated directly into the interpolation scheme with likelihood functions and informative prior distributions. We demonstrate these approaches on a series of synthetic fold shapes as a proof of concept and a case study from the Proterozoic Davenport Province in the Northern Territory, Australia. The combined inversion of geological data and knowledge significantly reduces the uncertainty in possible fold geometries where data is sparse or highly ambiguous. This could be used by geologists while mapping to propagate information about uncertainties throughout the mapping/model building process and would allow for different structural interpretations to be rapidly tested for targeted data collection.

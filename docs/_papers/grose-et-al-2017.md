@@ -1,0 +1,9 @@
+---
+title: Structural data constraints for implicit modeling of folds
+authors: Lachlan Grose, Laurent Ailleres, Gautier Laurent,  Robin Armit, Mark Jessell and Guillaume Caumon
+year: 2017
+journal: Journal of Structural Geology
+doi: <a href="https://doi.org/10.1016/j.jsg.2017.09.013">10.1016/j.jsg.2017.09.013</a>
+citation: Grose et al 2017
+---
+A recent method for modeling folds uses a fold frame with coordinates based on the structural geology of folds: fold axis direction, fold axial surface and extension direction. The fold geometry can be characterised by rotating the fold frame by the pitch of the fold axis in the axial surface and the angle between the folded foliation and the axial surface. These rotation angles can be expressed as 1D functions of the fold frame coordinates. In this contribution we present methods for extracting and automatically modeling the fold geometries from structural data. The fold rotation angles used for characterising the fold geometry can be calculated locally from structural observations. The fold rotation angles incorporate the structural geology of the fold and allow for individual structural measurements to be viewed in the context of the folded structure. To filter out the effects of later folding the fold rotation angles are plotted against the coordinates of the fold frame. Using these plots the geometry of the folds can be interpolated directly from structural data where we use a combination of radial basis function and harmonic analysis to interpolate and extrapolate the fold geometry. This contribution addresses a major limitation in existing methods where the fold geometry was not constrained from structural data. We present two case studies: a proof of concept synthetic model of a non-cylindrical fold and an outcrop of an asymmetrical fold within the Lachlan Fold belt at Cape Conran, Victoria, Australia.

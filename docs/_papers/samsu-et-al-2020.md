@@ -1,0 +1,9 @@
+---
+title: Scale matters The influence of structural inheritance on fracture patterns
+authors: Samsu, A., Cruden, A.R., Micklethwaite, S., Grose, L., Vollgger, S.A.
+year: 2020
+journal: Journal of Structural Geology
+doi: <a href="https://doi.org/10.1016/j.jsg.2019.103896">10.1016/j.jsg.2019.103896</a>
+citation: Samsu et al 2020
+---
+Fracture systems are often geometrically invariant across a range of scales, but the impact of structural inheritance on this relationship is poorly understood. This paper shows how fracture orientations in sedimentary rocks vary at different scales when influenced by pre-rift basement structures. We use high-resolution unmanned aerial vehicle (UAV) orthophotos to map folds and fractures in the basement and cover rocks of the Gippsland Basin, southeast Australia. Outcrop-scale observations are compared with >1 km long faults previously interpreted from potential field data. We use length-coloured rose diagrams of fracture traces to compare trends in fracture orientations. Early Cretaceous syn-rift normal faults exhibit the same ENE-WSW trend at basin (>1 km) and outcrop (meters) scales. Pervasive outcrop-scale, subvertical, NNW-SSE striking joints record a subsequent regional shortening event, but at the basin scale this is only expressed as reverse reactivated ENE-WSW striking faults. Thus, fabrics and/or faults in the underlying basement exert significant control on the orientation of basin-scale fractures in the cover but appear to have limited influence on outcrop-scale fracture orientations. Our observations show that fracture systems influenced by structural inheritance are not scale-invariant, and that a proper understanding of structural architecture can only be achieved by analysing data that span multiple scales.

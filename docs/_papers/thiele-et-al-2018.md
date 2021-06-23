@@ -1,0 +1,9 @@
+---
+title: Extraction of high-resolution structural orientations from digital data A Bayesian approach
+authors: Samuel T. Thiele, Lachlan Grose, Tiangang Cui, Alexander R. Cruden, Steven Micklethwaite
+year: 2018
+journal: Journal of Structural Geology
+doi: <a href="https://doi.org/10.5194/se-8-1241-2017">10.5194/se-8-1241-2017</a>
+citation: Thiele et al 2018
+---
+Measurement of structure orientations is a key part of structural geology. Digital outcrop methods provide a unique opportunity to collect such measurements in unprecedented numbers, and are becoming widely applied. However, orientation estimates produced by plane fitting can be highly uncertain, especially when observed data are ap- proximately collinear or the structures of interest comprise differently oriented segments. Here we present a Bayesian approach to plane fitting that can use data extracted from digital outcrop models to constrain the orientation of structures and the associated uncertainty. We also describe a moving-window search algorithm that exploits this Bayesian formulation to estimate local structure orientations for segmented structures. These methods are validated on synthetic datasets for which both the structure orientation and associated uncertainty is known. Finally, we implement the method in the point cloud analysis package CloudCompare and use it to estimate the orientation and thickness of dykes exposed in cliffs on the island of La Palma (Spain). The results highlight the potential of this method to generate structural data at unprecedented spatial resolution, while simultaneously characterising the associated uncertainties.
