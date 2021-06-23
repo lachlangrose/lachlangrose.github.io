@@ -29,8 +29,11 @@ Research Fellow – Loop project
 
 Publications 
 ------------
+[See publications page](publications)
 
-Invited speaker
+
+Presentations
+---------------
 *	Invited seminar: “Uncertainty in Geological Mapping” Centre for Exporation Targeting University of Western Australia. 3D interest group Meeting 2013. Host Dr Mark Lindsay
 *	Invited seminar: “Stochastic modelling of folds from structural data” Research in Integrative Numerical Geology, University of Lorraine. Host: Guillaume Caumon/Gautier Laurent
 *	Invited seminar: “Inversion of geological data and knowledge for fold geometries” University of Orleans. Host: Gautier Laurent
