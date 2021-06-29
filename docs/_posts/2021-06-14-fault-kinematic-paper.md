@@ -2,7 +2,7 @@
 layout: posts
 title:  "New paper: Realistic modelling of faults in LoopStructural"
 date:   2021-06-13 20:39:54 +1000
-categories: papers
+# categories: papers
 classes: wide
 author: Lachlan Grose
 author_profile: true

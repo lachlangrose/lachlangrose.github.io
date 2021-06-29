@@ -29,11 +29,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lachlangrose
 github_username:  lachlangrose
 
-remote_theme: "mmistakes/minimal-mistakes@4.23.0"
+remote_theme: "lachlangrose/minimal-mistakes"
 collections:
   papers:
     output: true
-    permalink: /:papers/:title
+    # permalink: /:papers/:title
     sort_by: year
 
 plugins:
