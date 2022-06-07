@@ -1,7 +1,7 @@
 ---
 layout: posts
 title:  "Building a triangular mesh from a regular grid using numpy"
-date:   2022-06-7 20:39:54 +1000
+date:   2022-06-7 10:39:54 +1000
 categories: programming
 classes: wide
 author: Lachlan Grose

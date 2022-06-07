@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-classes: wide
 author: Lachlan Grose
 # layout: single
+classes: wide
 author_profile: true
 title: ""
 ---

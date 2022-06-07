@@ -1,12 +1,12 @@
 ---
 title: Understanding community response to Warburton MTB project
 author: Lachlan Grose
-date: 2022-06-7 20:39:54 +1000
+date: 2022-06-7 10:39:54 +1000
 categories: programming
 classes: wide
 author_profile: true
 excerpt_separator: <!--more--> 
-
+layout: posts
 ---
 
 
@@ -18,7 +18,7 @@ The Mountain bike park planned for Warburton has been extremely controversial wi
 The community submissions for the ESS can be found [here](!https://engage.vic.gov.au/project/warburton-iac/page/warburton-IAC-submissions). Taking a look at the individual files we can see that each file containing the submissions have the same structure https://engage.vic.gov.au/download/document/23728 where the number 23728 increased for each submission file.
 Looking at the submissions the structure of the submissions are similar layout.
 
-![image.png](..\..\img\warburton_ess_example_submission.png)
+![image.png](\assets\images\warburton_ess_example_submission.png)
 
 To read a PDF using Python there are numerous libraries available. My preference is pdfplumber because it has an easy to use API to adapt it to particular use cases. To read a PDF using pdfplumber we just need to use the following code:
 
