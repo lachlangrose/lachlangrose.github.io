@@ -39,6 +39,7 @@ collections:
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-gist
 repository: lachlangrose/lachlangrose.github.io
 # Exclude from processing.
 # The following items will not be processed, by default.
